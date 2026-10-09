@@ -1,0 +1,12 @@
+{
+  "name": "@magpie-community/opencode-codearts-auth",
+  "version": "0.1.0",
+  "description": "OpenCode provider plugin for Huawei Cloud CodeArts: the CodeArts sign-in (Huawei Cloud account), openPangu, GLM and DeepSeek models, and the free daily quota with its check-in",
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": "./index.mjs",
+  "files": ["index.mjs", "README.md"],
+  "keywords": ["opencode", "opencode-plugin", "magpie", "codearts", "huawei", "huaweicloud", "openpangu"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/magpie-community/plugins.git", "directory": "packages/codearts" }
+}
